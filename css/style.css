@@ -31,6 +31,7 @@ footer{
     width: 98vw;  margin: 30px 14px; display: flex; align-items: center; overflow: hidden;}/* for responsiveness we have done; slider-overflow;hidden, as it will hide extra image  */
 .slider-images{
     min-width: 100%;
+    min-height: 200px;
 }
 .svg-arrow{ 
     width: 24px; height: 27px; margin-top: 38px; margin-left: 8px;}
